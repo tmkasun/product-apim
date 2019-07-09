@@ -1,0 +1,16 @@
+{
+  "prettier.singleQuote": true,
+  "prettier.tabWidth": 4,
+  "editor.tabCompletion": "on",
+  "prettier.eslintIntegration": true,
+  "editor.rulers": [120],
+  "editor.formatOnSave": false,
+  "eslint.autoFixOnSave": true,
+  "eslint.alwaysShowStatus": true,
+  "jest.pathToJest": "npm test --",
+  "jest.debugCodeLens.showWhenTestStateIn": ["fail", "unknown", "pass", "skip"],
+  "jest.autoEnable": true,
+  "jest.runAllTestsFirst": true,
+  "jest.enableInlineErrorMessages": true,
+  "jestrunner.configPath": "source/Tests/Integration/jest.config.js",
+}
